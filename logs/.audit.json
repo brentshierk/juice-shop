@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 2
+    },
+    "auditLog": "/Users/brentshierk/Desktop/juice-shop/logs/.audit.json",
+    "files": [
+        {
+            "date": 1639514480625,
+            "name": "/Users/brentshierk/Desktop/juice-shop/logs/access.log.2021-12-14",
+            "hash": "567af027a5365781bb89b4844acfe117"
+        }
+    ]
+}
